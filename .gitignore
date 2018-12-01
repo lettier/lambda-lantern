@@ -1,0 +1,8 @@
+*node_modules*
+*output*
+*.psc-package*
+*.d
+*.o
+*.blend1
+ffi/*
+!ffi/README.md

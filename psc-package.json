@@ -1,0 +1,13 @@
+{
+  "name": "lambda-lantern",
+  "set": "psc-0.13.0",
+  "source": "https://github.com/purescript/package-sets.git",
+  "depends": [
+    "behaviors",
+    "console",
+    "datetime",
+    "effect",
+    "event",
+    "prelude"
+  ]
+}
