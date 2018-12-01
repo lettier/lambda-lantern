@@ -1,0 +1,13 @@
+{
+  "name": "lambda-lantern",
+  "set": "lambda-lantern",
+  "source": "https://github.com/lettier/package-sets.git",
+  "depends": [
+    "behaviors",
+    "console",
+    "datetime",
+    "effect",
+    "event",
+    "prelude"
+  ]
+}
