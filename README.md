@@ -55,7 +55,7 @@ psc-package install
 
 # Build Lambda Lantern.
 # Double check the include and lib paths.
-# You may need addtional flags for your platform.
+# You may need additional flags for your platform.
 
 make \
   CXXFLAGS=" \
